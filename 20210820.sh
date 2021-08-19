@@ -1,0 +1,1 @@
+echo "Script for JSON";
